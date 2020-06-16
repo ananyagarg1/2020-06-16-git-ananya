@@ -8,3 +8,5 @@
 	- `git diff HEAD~1 <FILE>: com
 - `git checkout` : turn your head around
 - `git head` : not sure
+## remotes
+git push and pull
