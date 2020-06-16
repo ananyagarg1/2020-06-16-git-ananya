@@ -2,4 +2,5 @@
 
 - `git init` : create a git repository in the current directory
 - `git status` : tells you what is going on
-# hello
+- `git add <FILENAME>` : adds <FILENAME> to teh staging area (aka index)
+- `git commit` : open s up nano, commits the files in staging with a message
