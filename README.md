@@ -10,3 +10,6 @@
 - `git head` : not sure
 ## remotes
 git push and pull
+## conflicts
+- you can have multiple ppl working on teh same file
+git will wither resolve it or let you know there is a conflict
